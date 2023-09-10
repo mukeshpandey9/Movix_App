@@ -8,9 +8,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="./Images/IMG_20230910_231703.jpg" alt="project-screenshot" width="95%" height="100%/">
+<img src="./Images/IMG_20230910_231703.jpg" alt="project-screenshot" width="100%" height="85%/">
 
-<img src="./Images/IMG_20230910_231640.jpg" alt="project-screenshot" width="95%" height="100%/">
+<img src="./Images/IMG_20230910_231640.jpg" alt="project-screenshot" width="100%" height="85%/">
 
 
 <h2>🛠️ Installation Steps:</h2>
