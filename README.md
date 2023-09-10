@@ -8,6 +8,41 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="Zhzhdjdjddf.png" alt="project-screenshot" width="95%" height="100%/">
+<img src="./Images/IMG_20230910_231703.jpg" alt="project-screenshot" width="95%" height="100%/">
+
+<img src="./Images/IMG_20230910_231640.jpg" alt="project-screenshot" width="95%" height="100%/">
+
 
 <h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone the repo</p>
+
+```
+git clone --repository link--
+```
+
+<p>2. Install all the node modules</p>
+
+```
+npm install
+```
+
+<p>3. Run the server</p>
+
+```
+npm run dev
+```
+
+<p>4. That's it web app live on</p>
+
+```
+localhost:5137
+```
+
+<h2> Technologies Used:- </h2>
+<p>1. React</p>
+<p>2. Redux </p>
+<p>3. TMDB Api </p>
+<p>4. Sass </p>
+<p>5. Axios </p>
+<p>6. Lazy loading </p>
