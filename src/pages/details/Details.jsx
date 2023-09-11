@@ -17,9 +17,6 @@ const Details = () => {
     return v?.type === "Trailer";
   });
 
-  if (video) {
-    console.log("Trailer section", video);
-  }
 
   // console.log(video?.[0]);
   // video={data?.results?.[0]}
