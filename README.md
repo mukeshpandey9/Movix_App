@@ -1,8 +1,48 @@
-# React + Vite
+<h1 align="center" id="title">Movix_App</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p id="description">This is a movie listing app made using TMDB api.</p>
 
-Currently, two official plugins are available:
+<h2>🚀 Demo</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://movixzilla.netlify.app/](https://movixzilla.netlify.app/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="./Images/IMG_20230910_231703.jpg" alt="project-screenshot" width="100%" height="85%">
+
+<img src="./Images/IMG_20230910_231640.jpg" alt="project-screenshot" width="100%" height="85%">
+
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone the repo</p>
+
+```
+git clone --repository link--
+```
+
+<p>2. Install all the node modules</p>
+
+```
+npm install
+```
+
+<p>3. Run the server</p>
+
+```
+npm run dev
+```
+
+<p>4. That's it web app live on</p>
+
+```
+localhost:5137
+```
+
+<h2> Technologies Used:- </h2>
+<p>1. React</p>
+<p>2. Redux </p>
+<p>3. TMDB Api </p>
+<p>4. Sass </p>
+<p>5. Axios </p>
+<p>6. Lazy loading </p>
