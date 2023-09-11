@@ -13,6 +13,7 @@ import PosterFallback from "../../../assets/images/no-poster.png";
 import useFetch from "../../../hooks/useFetch";
 import { PlayBtn } from "../PlayBtn";
 import VideoPopup from "../../../components/videoPopup/VideoPopup";
+
 const DetailsBanner = ({ video, crew }) => {
   const [show, setShow] = useState(false);
   const [videoId, setVideoId] = useState(null);

@@ -13,18 +13,19 @@ const Details = () => {
     `/${mediaType}/${id}/credits`
   );
 
-  const video = data?.results?.map((v) => {
-    if (v?.type === "Trailer") {
-      // console.log(v);
-      return v;
-    }
+  const video = data?.results?.find((v) => {
+    return v?.type === "Trailer";
   });
+
+  if (video) {
+    console.log("Trailer section", video);
+  }
 
   // console.log(video?.[0]);
   // video={data?.results?.[0]}
   return (
     <div>
-      <DetailsBanner video={video?.[0]} crew={credits?.crew} />
+      <DetailsBanner video={video} crew={credits?.crew} />
       <Cast data={credits?.cast} loading={creditsLoading} />
       <VideosSection data={data} loading={loading} />
       <Similar mediaType={mediaType} id={id} />
