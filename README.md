@@ -18,7 +18,7 @@
 <p>1. Clone the repo</p>
 
 ```
-git clone https://github.com/mukeshpandey9/Movix_App
+[https://github.com/mukeshpandey9/Movix_App.git/](https://github.com/mukeshpandey9/Movix_App.git/)
 ```
 
 <p>2. Install all the node modules</p>
