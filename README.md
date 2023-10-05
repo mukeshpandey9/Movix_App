@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Movix_App</h1>
+<h1 align="center" id="title"> Movix_App</h1>
 
 <p id="description">This is a movie listing app made using TMDB api.</p>
 
