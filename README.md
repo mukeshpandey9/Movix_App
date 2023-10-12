@@ -15,7 +15,7 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone the  repo</p>
+<p>1. Clone the repo</p>
 
 ```
 https://github.com/mukeshpandey9/Movix_App.git
